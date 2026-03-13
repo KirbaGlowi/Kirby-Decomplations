@@ -23,7 +23,7 @@ https://github.com/Swiftshine/kdc
 https://github.com/swiftshine/key
 
 
-<img src="https://static.wikia.nocookie.net/kirby/images/9/9c/KRtDL_Logo.png" width="360">
+<img src="https://github.com/KirbaGlowi/Kirby-Decomplations/blob/main/KRtDL_Logo.webp?raw=true" width="360">
 https://github.com/ThePlayerRolo/KRTDLDecomp
 
 
