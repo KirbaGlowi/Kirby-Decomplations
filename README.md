@@ -19,7 +19,7 @@ https://github.com/doldecomp/kar
 https://github.com/Swiftshine/kdc
 
 
-<img src="https://static.wikia.nocookie.net/kirby/images/0/0d/Epic_Yarn_Logo.png" width="985">
+<img src="https://github.com/KirbaGlowi/Kirby-Decomplations/blob/main/Epic_Yarn_Logo.webp?raw=true" width="500">
 https://github.com/swiftshine/key
 
 
